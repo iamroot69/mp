@@ -1,0 +1,6 @@
+mount c C:\User\...\8086
+c:
+
+TASM FILE.ASM
+TLINK FILE.OBJ
+FILE.EXE
