@@ -1,6 +1,8 @@
-mount c C:\User\...\8086
-c:
+<H2>TO MOUNT 8086 FOLDER AS C DRIVE</H2>
+mount c C:\User\...\8086<br/>
+c:<br/><br/>
 
-TASM FILE.ASM
-TLINK FILE.OBJ
-FILE.EXE
+<H2>TO RUN FILE</H2>
+TASM FILE.ASM<br/>
+TLINK FILE.OBJ<br/>
+FILE.EXE<br/>
